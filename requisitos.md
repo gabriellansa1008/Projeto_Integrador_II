@@ -29,8 +29,10 @@ e pretende consultar o sistema.  Ele verifica que há uma garrafa branca esqueci
 do objeto.
 
 ### Editar objeto
-O responsável consegue editar as informações do objeto e sua situação . As situações inclusas no projeto serão encontrado, aguardando retirada ou devolvido. Quando 
-devolvido o objeto deve conter a data de devolução.
+O responsável consegue editar as informações do objeto e sua situação . As situações inclusas no projeto serão :
+- encontrado,
+- aguardando retirada
+- devolvido.
 
 ### Remover objeto
 A remoção de um registro poderá ser feita pelo responsável. 
@@ -53,6 +55,7 @@ O sistema permite mudanças, atualizações e futuras melhorias .
 ## Observações 
 
 - Um objeto que estiver com a situação Devolvido não deverá ser considerado como disponível para retirada;
-- O cadastro como responsável ou como usuário deverá ser regulado pela instituição. Por exemplo, funcionário da escola como responsável e alunos como usuários.
-- Por se tratar se um sistema simples, aplicativos pra celular e envio de mensagens através do sistema ainda não estão integrados ao sistema.
+- O cadastro como responsável ou como usuário deverá ser regulado pela instituição. Por exemplo, funcionário da escola como responsável e alunos como usuários;
+- Por se tratar se um sistema simples, aplicativos para celular e envio de mensagens através do sistema ainda não estão integrados ao sistema;
+- Quando devolvido o objeto deve conter a data de devolução.
 
