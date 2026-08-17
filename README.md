@@ -11,22 +11,22 @@ A solução proposta é o desenvolvimento de um Sistema de Achados e Perdidos, q
 Esse sistema tem como finalidade principal realizar o resgate seguro de objetos perdidos e diminuir a dependência de registros no papel , que muitas vezes são descartados .
 
 ### Objetivos específicos
--Centralizar as informações dos objetos encontrados;
--Facilitar a consulta e pesquisa dos objetos;
--Registrar o local e a data em que cada objeto foi encontrado;
--Controlar a situação dos objetos cadastrados;
--Registrar a devolução dos objetos;
--Reduzir a dependência de registros manuais;
--Facilitar o trabalho do responsável pelo setor de achados e perdidos.
+- Centralizar as informações dos objetos encontrados;
+- Facilitar a consulta e pesquisa dos objetos;
+- Registrar o local e a data em que cada objeto foi encontrado;
+- Controlar a situação dos objetos cadastrados;
+- Registrar a devolução dos objetos;
+- Reduzir a dependência de registros manuais;
+- Facilitar o trabalho do responsável pelo setor de achados e perdidos.
 
 ### Funcionalidades
 As funcionalidades principais que permitem a eficiência do projeto são:
 - realizar o login no sistema como usuário comum ou como responsável; 
--registrar objetos encontrados e devolvidos com uma descrição eficiente e organizada; 
--armazenar informações sobre os objetos encontrados; 
--permitir a consulta dos objetos cadastrados; 
--facilitar a pesquisa por objetos perdidos; 
--controlar a situação de cada objeto;
+- registrar objetos encontrados e devolvidos com uma descrição eficiente e organizada; 
+- armazenar informações sobre os objetos encontrados; 
+- permitir a consulta dos objetos cadastrados; 
+- facilitar a pesquisa por objetos perdidos; 
+- controlar a situação de cada objeto;
 
 ### Público-alvo da solução
 Esse projeto é direcionado principalmente às instituições de ensino com grande fluxo de pessoas e, consequentemente, de objetos não encontrados. Dentre esses espaços é possível destacar escolas, universidades, faculdades particulares ou cursos presenciais .
@@ -50,19 +50,19 @@ As três situações principais são:
 O sistema terá cadastro de objetos encontrados; consulta e pesquisa; visualização de informações; edição de registros; controle da situação; registro de devoluções e remoção de registros.
 
 Não estará incluído nessa primeira versão:
--Aplicativo para dispositivos móveis;
--Inteligência artificial;
--Envio de SMS;
--Integração com redes sociais ou sistemas externos;
--Sistema de pagamentos.
+- Aplicativo para dispositivos móveis;
+- Inteligência artificial;
+- Envio de SMS;
+- Integração com redes sociais ou sistemas externos;
+- Sistema de pagamentos.
 
 ### Tecnologias previstas
--HTML5:	Estrutura das páginas;
--CSS3:	Estilização do sistema e organização;
--JavaScript:	Acrescenta interações e funcionalidades ;
--Node.js: Desenvolvimento do back-end;
--MySQL:	Armazenamento dos dados;
--GitHub: gerenciamento do projeto.
+- HTML5:	Estrutura das páginas;
+- CSS3:	Estilização do sistema e organização;
+- JavaScript:	Acrescenta interações e funcionalidades ;
+- Node.js: Desenvolvimento do back-end;
+- MySQL:	Armazenamento dos dados;
+- GitHub: gerenciamento do projeto.
 
   
 
