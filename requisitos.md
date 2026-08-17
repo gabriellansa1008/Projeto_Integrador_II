@@ -32,11 +32,11 @@ do objeto.
 O responsável consegue editar as informações do objeto preenchidas no momento do cadastro.
 
 ### Editar situação do objeto
-As situações inclusas no projeto serão :
+O responsável poderá modificar as situações em que o objeto de encaixa. São elas:
 - encontrado,
-- aguardando retirada
+- aguardando retirada,
 - devolvido.
-O responsável poderá modificar essas situações .
+
 
 ### Remover objeto
 A remoção de um registro poderá ser feita pelo responsável. 
@@ -44,7 +44,7 @@ A remoção de um registro poderá ser feita pelo responsável.
 
 ## Requisitos não funcionais
 
-### Acessbilidade
+### Acessibilidade
 A interface do projeto é objetiva e não complexa, permitindo que o usuário usufrua do sistema de forma intuitiva.
 
 ### Segurança
@@ -58,7 +58,7 @@ O sistema permite mudanças, atualizações e futuras melhorias .
 
 ## Observações 
 
-- Um objeto que estiver com a situação Devolvido não deverá ser considerado como disponível para retirada;
+- Um objeto que estiver com a situação "devolvido" não deverá ser considerado como disponível para retirada;
 - O cadastro como responsável ou como usuário deverá ser regulado pela instituição. Por exemplo, funcionário da escola como responsável e alunos como usuários;
 - Por se tratar se um sistema simples, aplicativos para celular e envio de mensagens através do sistema ainda não estão integrados ao sistema;
 - Quando devolvido o objeto deve conter a data de devolução.
