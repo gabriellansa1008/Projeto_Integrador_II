@@ -7,7 +7,7 @@ Em quase todos os lugares, principalmente instituições educacionais, há a per
 ## Solução 
 A solução proposta é o desenvolvimento de um Sistema de Achados e Perdidos, que permitirá o registro de objetos encontrados com uma descrição completa (data, características do objeto, onde foi encontrado) e os que já foram devolvidos a seu dono. Esse registro feito pelo responsável poderá ser visto e pesquisado pelo usuário, facilitando assim o processo de devolução do objeto.
 
-## Objetivo principal
+### Objetivo principal da solução
 Esse sistema tem como finalidade principal realizar o resgate seguro de objetos perdidos e diminuir a dependência de registros no papel , que muitas vezes são descartados .
 As funcionalidades principais que permitem a eficiência do projeto são:
 -registrar objetos encontrados e devolvidos com uma descrição eficiente e organizada; 
@@ -16,10 +16,10 @@ As funcionalidades principais que permitem a eficiência do projeto são:
 -facilitar a pesquisa por objetos perdidos; 
 -controlar a situação de cada objeto;
 
-## Público-alvo
+### Público-alvo da solução
 Esse projeto é direcionado principalmente às instituições de ensino com grande fluxo de pessoas e, consequentemente, de objetos não encontrados. Dentre esses espaços é possível destacar escolas, universidades, faculdades particulares ou cursos presenciais .
 
-## Usuários Principais
+### Usuários Principais da Solução
 Os dois tipos de usuário presentes no sistema são o responsável e o usuário interessado em achar algo que perdeu. Há uma certa diferença entre os serviços que podem ser realizados entre eles: o usuário poderá pesquisar objetos , consultar objetos encontrados e visualizar informações de objetos cadastrados. Já o responsável poderá cadastrar objetos encontrados; consultar, pesquisar e modificar as informações ou a situação dos objetos; registrar a devolução dos objetos e deletar registros .
 
 ## Equipe responsável pelo projeto
