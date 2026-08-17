@@ -23,16 +23,20 @@ O sistema deverá permitir que o responsável o cadastro um objeto encontrado. E
 - Data em que foi encontrado.
 - Código de identificação do objeto
 
-### Consultar e Visualizar objetos
+### Consultar e Pesquisar objetos
 A consulta e a pesquisa dos objetos pode ser feita através das informações disponíveis no cadastro dele. Exemplo: o usuário perdeu uma garrafa branca na escola
 e pretende consultar o sistema.  Ele verifica que há uma garrafa branca esquecida no bloco dos professores . A segurança se amplia com a visualização dos detalhes
 do objeto.
 
 ### Editar objeto
-O responsável consegue editar as informações do objeto e sua situação . As situações inclusas no projeto serão :
+O responsável consegue editar as informações do objeto preenchidas no momento do cadastro.
+
+### Editar situação do objeto
+As situações inclusas no projeto serão :
 - encontrado,
 - aguardando retirada
 - devolvido.
+O responsável poderá modificar essas situações .
 
 ### Remover objeto
 A remoção de um registro poderá ser feita pelo responsável. 
