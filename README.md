@@ -73,31 +73,6 @@ O visitante poderá:
 - Os trabalhos deverão respeitar as regras de convivência da escola.
 
 
-## Escopo
-
-### Dentro do escopo
-
-- Cadastro de alunos;
-- Login;
-- Publicação de desenhos;
-- Visualização de trabalhos;
-- Perfil do artista;
-- Edição de publicações;
-- Remoção de publicações.
-
-### Fora do escopo
-
-A primeira versão não terá:
-
-- Sistema de comentários;
-- Curtidas;
-- Mensagens privadas;
-- Sistema de seguidores;
-- Pagamentos;
-- Loja de desenhos;
-- Integração com redes sociais;
-- Aplicativo para celular.
-
 ## Responsável pelo Projeto
 
 - Gabriela Nogueira Santos Abade
