@@ -262,3 +262,5 @@ Essas funcionalidades não serão consideradas na primeira versão do projeto.
 A modelagem apresentada representa a estrutura inicial do projeto **Arte na Escola**, definindo os principais usuários, funcionalidades, permissões e fluxos do sistema.
 
 A proposta busca criar um espaço digital simples para divulgar e valorizar os trabalhos artísticos produzidos pelos alunos da instituição.
+
+Link do Trello:  https://trello.com/b/MbutCJNj/arte-na-escola
